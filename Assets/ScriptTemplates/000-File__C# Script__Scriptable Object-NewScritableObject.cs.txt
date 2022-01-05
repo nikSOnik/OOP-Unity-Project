@@ -1,0 +1,12 @@
+#region using
+using UnityEngine;
+#endregion
+
+    #ROOTNAMESPACEBEGIN#
+
+[CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "nikSOnik/#SCRIPTNAME#", order = 0)]
+public class #SCRIPTNAME# : ScriptableObject
+{
+    
+}
+#ROOTNAMESPACEEND#

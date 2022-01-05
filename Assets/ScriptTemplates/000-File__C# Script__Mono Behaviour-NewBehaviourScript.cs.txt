@@ -1,0 +1,11 @@
+#region using
+using UnityEngine;
+#endregion
+
+    #ROOTNAMESPACEBEGIN#
+[AddComponentMenu("nikSOnik/#SCRIPTNAME#")]
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    #NOTRIM#
+}
+#ROOTNAMESPACEEND#

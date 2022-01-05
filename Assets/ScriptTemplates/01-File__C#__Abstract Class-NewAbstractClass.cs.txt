@@ -1,0 +1,10 @@
+#region using
+using UnityEngine;
+#endregion
+
+    #ROOTNAMESPACEBEGIN#
+public abstract class #SCRIPTNAME#
+{        
+    
+}
+#ROOTNAMESPACEEND#

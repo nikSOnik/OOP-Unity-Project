@@ -1,0 +1,11 @@
+#region using
+using UnityEngine;
+#endregion
+
+    #ROOTNAMESPACEBEGIN#
+[System.Serializable]
+public struct #SCRIPTNAME#
+{
+      
+}
+#ROOTNAMESPACEEND#
